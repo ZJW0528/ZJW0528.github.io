@@ -5483,3 +5483,11 @@ blockquote.pullquote.right {
 .read-mode #article-container .note .note-icon {
   color: var(--font-color);
 }
+#web_bg {
+    /* 背景图像的地址（url括号里）  */
+    background: url("/themes/butterfly/source/img/background.jpeg");
+    /* 背景图像不重复 */
+    background-repeat: no-repeat;
+    /* 背景图像大小 */
+    background-size: cover;
+}
