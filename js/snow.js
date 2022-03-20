@@ -32,7 +32,7 @@
             });
         }, options.newOn);
     };
-})(jquery);
+})(jQuery);
 $(function() {
     $.fn.snow({
         minSize: 5,
